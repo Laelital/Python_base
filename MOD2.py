@@ -1,7 +1,10 @@
 # 2.2 Команды print() и input(), переменные 
+
 # variable_name = input()
 # print('Вы ввели текст:', variable_name)
+
 # 2.3 sep, end, PEP 8
+
 # print('aa', 'bb', 'cc', sep='*')
 # minus = '-'
 # print('a', 'b', 'c', end=minus)
@@ -9,7 +12,9 @@
 # print('a', 'b', 'c', sep='', end='')
 # print('d', 'e', 'f', sep='')
 # print('Python', end='\n\n\n')  # Примечание, два пробела после, знак и пробел
+
 # 2.4 Целочисленная арифметика
+
 # s = '1992'
 # year = int(s)
 # print(year)
